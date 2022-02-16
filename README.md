@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZachWilliams2021
 - 👀 I’m interested in DevOps, Cloud, and Open Source tech.
-- 🌱 I’m currently learning Linux and bash scripting, then docker and kubernetes, oh and ansible.
+- 🌱 I’m currently learning Programming via the Odin Project.
 - 💞️ I’m looking to collaborate on nothing at this moment.
 - 📫 How to reach me ...
 
