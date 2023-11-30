@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZachWilliams2021
-- 👀 I’m interested in DevOps, Cloud, and Open Source tech.
+- 👀 I’m interested in DevOps, Cloud, and Open Source.
 - 🌱 I’m currently learning Programming via the Odin Project.
 - 💞️ I’m looking to collaborate on nothing at this moment.
 - 📫 How to reach me ...
